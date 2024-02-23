@@ -10,7 +10,7 @@ export default () => {
   }
 
   function aumentar1(){
-    setValor1(v => v + 1)
+    setValor1(valor1 + 1)
   }
 
   function diminuir2(){
