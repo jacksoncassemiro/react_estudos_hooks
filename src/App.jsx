@@ -1,5 +1,5 @@
 import React from "react";
-import HookState from "./components/UseState_05"
+import HookState from "./components/UseState_06"
 // import { useState } from "react"
 
 export default () => {
